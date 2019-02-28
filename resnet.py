@@ -1,17 +1,4 @@
-"""This is a TensorFlow implementation of ResNet by He et all.
 
-The architecture is based on the ResNet-n architecture
-(where n = 20, 32, 44, 56) described in the paper to
-perform analysis and tests on CIFAR-10 dataset.
-
-Paper: Deep Residual Learning for Image Recognition
- 
-Explanation on ResNet can be found in my blog post:
-https://mohitjain.me/2018/06/13/resnet/
-
-@author: Mohit Jain (contact: mohitjain1999(at)yahoo.com)
-
-"""
 
 import tensorflow as tf
 
